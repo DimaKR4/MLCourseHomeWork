@@ -1,13 +1,11 @@
-HW1
-HW2
-HW3
-HW4
-HW5
-HW6
-HW7
-HW8
+HW1_Змінні_та_основні_типи_даних_в_Python.ipynb
+HW2. Списки та словники.ipynb
+HW3. Умовні конструкції (if-elif-else).ipynb
+HW4. Цикл for.ipynb
+HW5. Цикл while. List comprehensions.ipynb
+HW6. Функції.ipynb
+HW7. Numpy.ipynb
+HW8. Pandas.ipynb
 
-**/HW*
-
-1.1. Основи статистичного аналізу вибірок.ipynb
+module_1/1.1. Основи статистичного аналізу вибірок.ipynb
 module_1/Lecture 6.3. Розподіли даних.ipynb
